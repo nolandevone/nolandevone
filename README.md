@@ -22,6 +22,3 @@
 
 ### 😂 Random Dev Meme
 <img src="https://skillbox.ru/upload/setka_images/14055326052022_0ed1686442ac630326a48ddcef43684fa02b904b.jpg" width="512px"/>
-
----
-[![](https://skillbox.ru/upload/setka_images/14055326052022_0ed1686442ac630326a48ddcef43684fa02b904b.jpg)](https://visitcount.itsvg.in)
