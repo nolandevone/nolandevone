@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://skillbox.ru/upload/setka_images/14055326052022_0ed1686442ac630326a48ddcef43684fa02b904b.jpg" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nolandevone&icon=6&color=1)](https://visitcount.itsvg.in)
+[![](https://skillbox.ru/upload/setka_images/14055326052022_0ed1686442ac630326a48ddcef43684fa02b904b.jpg)](https://visitcount.itsvg.in)
