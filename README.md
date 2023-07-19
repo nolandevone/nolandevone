@@ -1,4 +1,4 @@
-[header](https://github.com/nolandevone/nolandevone/blob/main/header.gif)
+![header](https://github.com/nolandevone/nolandevone/blob/main/header.gif)
 <h1 align="center">Hi 👋, I'm Samir</h1>
 <h3 align="center">A passionate Backend developer from Uzbekistan</h3>
 
