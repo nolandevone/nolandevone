@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Samir</h1>
-<h3 align="center">A passionate Backend developer from Uzbekistan</h3>
+<h3 align="center">A passionate Backend developer from Russia</h3>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/nolandevone/Portfolio)
 
