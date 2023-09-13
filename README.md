@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=nolandevone&icon=6&color=1)](https://visitcount.itsvg.in)
 - 🔭 I’m currently working on [Portfolio](https://github.com/nolandevone/Portfolio)
-- 🌱 I’m currently learning **Backend - Python/Django**
+- 🌱 I’m currently learning **Frontend - HTML/CSS/JS/REACT**
 - 👨‍💻 All of my projects are available at [https://github.com/nolandevone?tab=repositories](https://github.com/nolandevone?tab=repositories)
 - 💬 Ask me about **Python, Django**
 - 📫 How to reach me [Gmail](raupovsamir084@gmail.com)
